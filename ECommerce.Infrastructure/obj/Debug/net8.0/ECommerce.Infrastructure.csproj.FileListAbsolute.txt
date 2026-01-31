@@ -1,0 +1,17 @@
+C:\Users\nguye\source\repos\Lab3_2224802010086_NguyenPhuLuong\ECommerce.Infrastructure\obj\Debug\net8.0\ECommerce.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\Lab3_2224802010086_NguyenPhuLuong\ECommerce.Infrastructure\obj\Debug\net8.0\ECommerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\source\repos\Lab3_2224802010086_NguyenPhuLuong\ECommerce.Infrastructure\obj\Debug\net8.0\ECommerce.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\nguye\source\repos\Lab3_2224802010086_NguyenPhuLuong\ECommerce.Infrastructure\obj\Debug\net8.0\ECommerce.Infrastructure.AssemblyInfo.cs
+C:\Users\nguye\source\repos\Lab3_2224802010086_NguyenPhuLuong\ECommerce.Infrastructure\obj\Debug\net8.0\ECommerce.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\Lab3_2224802010086_NguyenPhuLuong\ECommerce.Infrastructure\bin\Debug\net8.0\ECommerce.Infrastructure.deps.json
+C:\Users\nguye\source\repos\Lab3_2224802010086_NguyenPhuLuong\ECommerce.Infrastructure\bin\Debug\net8.0\ECommerce.Infrastructure.runtimeconfig.json
+C:\Users\nguye\source\repos\Lab3_2224802010086_NguyenPhuLuong\ECommerce.Infrastructure\bin\Debug\net8.0\ECommerce.Infrastructure.dll
+C:\Users\nguye\source\repos\Lab3_2224802010086_NguyenPhuLuong\ECommerce.Infrastructure\bin\Debug\net8.0\ECommerce.Infrastructure.pdb
+C:\Users\nguye\source\repos\Lab3_2224802010086_NguyenPhuLuong\ECommerce.Infrastructure\bin\Debug\net8.0\ECommerce.Domain.dll
+C:\Users\nguye\source\repos\Lab3_2224802010086_NguyenPhuLuong\ECommerce.Infrastructure\bin\Debug\net8.0\ECommerce.Domain.pdb
+C:\Users\nguye\source\repos\Lab3_2224802010086_NguyenPhuLuong\ECommerce.Infrastructure\obj\Debug\net8.0\ECommerc.B0B31267.Up2Date
+C:\Users\nguye\source\repos\Lab3_2224802010086_NguyenPhuLuong\ECommerce.Infrastructure\obj\Debug\net8.0\ECommerce.Infrastructure.dll
+C:\Users\nguye\source\repos\Lab3_2224802010086_NguyenPhuLuong\ECommerce.Infrastructure\obj\Debug\net8.0\refint\ECommerce.Infrastructure.dll
+C:\Users\nguye\source\repos\Lab3_2224802010086_NguyenPhuLuong\ECommerce.Infrastructure\obj\Debug\net8.0\ECommerce.Infrastructure.pdb
+C:\Users\nguye\source\repos\Lab3_2224802010086_NguyenPhuLuong\ECommerce.Infrastructure\obj\Debug\net8.0\ECommerce.Infrastructure.genruntimeconfig.cache
+C:\Users\nguye\source\repos\Lab3_2224802010086_NguyenPhuLuong\ECommerce.Infrastructure\obj\Debug\net8.0\ref\ECommerce.Infrastructure.dll

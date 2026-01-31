@@ -1,0 +1,17 @@
+C:\Users\nguye\source\repos\Lab3_2224802010086_NguyenPhuLuong\ECommerce.Application\obj\Debug\net8.0\ECommerce.Application.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\Lab3_2224802010086_NguyenPhuLuong\ECommerce.Application\obj\Debug\net8.0\ECommerce.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\source\repos\Lab3_2224802010086_NguyenPhuLuong\ECommerce.Application\obj\Debug\net8.0\ECommerce.Application.AssemblyInfoInputs.cache
+C:\Users\nguye\source\repos\Lab3_2224802010086_NguyenPhuLuong\ECommerce.Application\obj\Debug\net8.0\ECommerce.Application.AssemblyInfo.cs
+C:\Users\nguye\source\repos\Lab3_2224802010086_NguyenPhuLuong\ECommerce.Application\obj\Debug\net8.0\ECommerce.Application.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\Lab3_2224802010086_NguyenPhuLuong\ECommerce.Application\bin\Debug\net8.0\ECommerce.Application.deps.json
+C:\Users\nguye\source\repos\Lab3_2224802010086_NguyenPhuLuong\ECommerce.Application\bin\Debug\net8.0\ECommerce.Application.dll
+C:\Users\nguye\source\repos\Lab3_2224802010086_NguyenPhuLuong\ECommerce.Application\bin\Debug\net8.0\ECommerce.Application.pdb
+C:\Users\nguye\source\repos\Lab3_2224802010086_NguyenPhuLuong\ECommerce.Application\bin\Debug\net8.0\ECommerce.Domain.dll
+C:\Users\nguye\source\repos\Lab3_2224802010086_NguyenPhuLuong\ECommerce.Application\bin\Debug\net8.0\ECommerce.Infrastructure.dll
+C:\Users\nguye\source\repos\Lab3_2224802010086_NguyenPhuLuong\ECommerce.Application\bin\Debug\net8.0\ECommerce.Domain.pdb
+C:\Users\nguye\source\repos\Lab3_2224802010086_NguyenPhuLuong\ECommerce.Application\bin\Debug\net8.0\ECommerce.Infrastructure.pdb
+C:\Users\nguye\source\repos\Lab3_2224802010086_NguyenPhuLuong\ECommerce.Application\obj\Debug\net8.0\ECommerc.670E0CBE.Up2Date
+C:\Users\nguye\source\repos\Lab3_2224802010086_NguyenPhuLuong\ECommerce.Application\obj\Debug\net8.0\ECommerce.Application.dll
+C:\Users\nguye\source\repos\Lab3_2224802010086_NguyenPhuLuong\ECommerce.Application\obj\Debug\net8.0\refint\ECommerce.Application.dll
+C:\Users\nguye\source\repos\Lab3_2224802010086_NguyenPhuLuong\ECommerce.Application\obj\Debug\net8.0\ECommerce.Application.pdb
+C:\Users\nguye\source\repos\Lab3_2224802010086_NguyenPhuLuong\ECommerce.Application\obj\Debug\net8.0\ref\ECommerce.Application.dll
